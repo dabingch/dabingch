@@ -1,6 +1,6 @@
 # Nice to meet you! 😋
 
-### Hi there :
+### Hi there 👋
 * 📜 I am a **postgraduate student** who is doing Master of Information Technology and Master of Information Technology Management(Major in Software Engineering) in [The University of Sydney](https://www.sydney.edu.au/).
 
 * 🎮 Fans of games, especially in the FPS and MMORPG genres.
