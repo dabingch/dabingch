@@ -16,7 +16,7 @@
 </p>
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/bilibalaboom413/4bdd880d7b64078a4b1738168dc97bae" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/bilibalaboom413/3c6dfd007fb090c79d2d038fb8897721" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1413 hrs
 🔫 Counter-Strike: Global Offensive 🕘 792 hrs
