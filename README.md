@@ -10,9 +10,10 @@
 <hr>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilibalaboom413&layout=compact&theme=dracula"/>
+    
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=bilibalaboom413&show_icons=true&count_private=true&include_all_commits=true&line_height=20&theme=dracula"/>
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=bilibalaboom413&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilibalaboom413&layout=compact&theme=dracula"/>
 </p>
 
 <!-- steam-box start -->
