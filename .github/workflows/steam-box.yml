@@ -14,7 +14,7 @@ jobs:
     runs-on: Ubuntu-20.04
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      GIST_ID: 641f56b1729e23c31d538f3b2e573d9d
+      GIST_ID: 4bdd880d7b64078a4b1738168dc97bae
       STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
       STEAM_ID: ${{ secrets.STEAM_ID }}
       UPDATE_OPTION: GIST_AND_MARKDOWN
