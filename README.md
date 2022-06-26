@@ -18,9 +18,10 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/bilibalaboom413/4bdd880d7b64078a4b1738168dc97bae" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘
-🎮 Monster Hunter: World            🕘 
-🍳 PUBG: BATTLEGROUNDS              🕘 
+🍳 PUBG: BATTLEGROUNDS              🕘 1413 hrs
+🔫 Counter-Strike: Global Offensive 🕘 792 hrs
+🎮 Monster Hunter: World            🕘 24 hrs
+🔫 Tom Clancy's Rainbow Six Siege   🕘 18.6 hrs
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
