@@ -16,7 +16,7 @@
 </p>
 
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/58342eb205bcd66ddd75f6e49340d604" target="_blank">🎮 Steam playtime leaderboard</a>
+#### <a href="https://gist.github.com/bilibalaboom413/4bdd880d7b64078a4b1738168dc97bae" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🔫 Counter-Strike: Global Offensive 🕘
 🎮 Monster Hunter: World            🕘 
