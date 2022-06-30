@@ -8,7 +8,7 @@
 
 * 🎯 I have strong curiosity and interest in high technology and game development, willingness to learn and an emphasis on teamwork.
 
-## 💼 Skills
+## 💼 Skills (Keep Learning!)
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
