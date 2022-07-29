@@ -59,7 +59,7 @@
 #### <a href="https://gist.github.com/3c6dfd007fb090c79d2d038fb8897721" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1417 hrs 6 mins
-🔫 Counter-Strike: Global Offensive 🕘 803 hrs 53 mins
+🔫 Counter-Strike: Global Offensive 🕘 804 hrs 4 mins
 🎮 Monster Hunter: World            🕘 24 hrs 6 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 18 hrs 38 mins
 🧟 Left 4 Dead 2                    🕘 18 hrs 22 mins
