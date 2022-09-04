@@ -59,7 +59,7 @@
 🍳 PUBG: BATTLEGROUNDS              🕘 1426 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 808 hrs 42 mins
 🎮 Monster Hunter: World            🕘 24 hrs 6 mins
-🧟 Left 4 Dead 2                    🕘 19 hrs 25 mins
+🧟 Left 4 Dead 2                    🕘 20 hrs 22 mins
 🔫 Tom Clancy's Rainbow Six Siege   🕘 18 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
