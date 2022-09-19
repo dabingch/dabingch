@@ -60,7 +60,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 809 hrs 30 mins
 🎮 Monster Hunter: World            🕘 24 hrs 6 mins
 🧟 Left 4 Dead 2                    🕘 20 hrs 22 mins
-🎮 Gunfire Reborn                   🕘 19 hrs 37 mins
+🎮 Gunfire Reborn                   🕘 20 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
