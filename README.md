@@ -49,8 +49,6 @@
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dabingch&layout=compact&theme=dracula"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dabingch&show_icons=true&count_private=true&include_all_commits=true&line_height=20&theme=dracula"/>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=dabingch&theme=dracula"/>
 </p>
 
 <!-- steam-box start -->
