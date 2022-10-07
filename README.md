@@ -67,7 +67,7 @@
 <p align="center">
     <i>A flower does not think of competing to the flower next to it. It just blooms.</b></i>
     <p align="center">
-        <a href= "https://www.linkedin.cn/incareer/in/chen-hao-1588601b1"><img src="https://img.icons8.com/nolan/32/linkedin.png"/></a>
+        <a href= "https://www.linkedin.com/in/hao-chen-1588601b1/"><img src="https://img.icons8.com/nolan/32/linkedin.png"/></a>
     </p>
 </p>
 
