@@ -70,7 +70,3 @@
         <a href= "https://www.linkedin.com/in/hao-chen-1588601b1/"><img src="https://img.icons8.com/nolan/32/linkedin.png"/></a>
     </p>
 </p>
-
-<p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=Hao.Hao" alt="vistor badge" />
-</p>
