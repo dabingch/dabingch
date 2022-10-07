@@ -2,11 +2,11 @@
 
 ![image](https://user-images.githubusercontent.com/61271027/175825757-9bd8e231-0c60-4d1d-a048-8fe05afa5fa1.png)
 
-* 🤔 I'm a **postgraduate student** who is doing Master of Information Technology and Master of Information Technology Management(Major in Software Engineering) in [The University of Sydney](https://www.sydney.edu.au/).
+* 🤔 I'm a **postgraduate student** who is doing a Master of Information Technology and Master of Information Technology Management(Major in Software Engineering) at [The University of Sydney](https://www.sydney.edu.au/).
 
-* 🎮 I'm a big fan of games, especially in the FPS, MMORPG and Racing genres and hope to join in a team to develop an fantastic game in the future.
+* 🎮 I'm a big fan of games, especially in the FPS, MMORPG and Racing genres and hope to join in a team to develop a fantastic game in the future.
 
-* 🎯 I have strong curiosity and interest in high technology and game development, willingness to learn and an emphasis on teamwork.
+* 🎯 I have an intense curiosity and interest in high technology and game development, willingness to learn and an emphasis on teamwork.
 
 ## 💼 Skills (Keep Learning!)
 
