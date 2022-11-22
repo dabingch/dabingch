@@ -56,7 +56,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1430 hrs 30 mins
 🔫 Counter-Strike: Global Offensive 🕘 810 hrs 52 mins
-🎮 Gunfire Reborn                   🕘 25 hrs 47 mins
+🎮 Gunfire Reborn                   🕘 26 hrs 17 mins
 🎮 Monster Hunter: World            🕘 24 hrs 6 mins
 🧟 Left 4 Dead 2                    🕘 20 hrs 22 mins
 ```
