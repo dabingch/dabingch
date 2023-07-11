@@ -103,8 +103,9 @@
     
  </tr>
 </table>
-<br><br>
 </div>
+
+<br>
 
 <details>
 <summary>More Skills</summary>
