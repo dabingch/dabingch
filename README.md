@@ -2,11 +2,17 @@
 
 ![image](https://user-images.githubusercontent.com/61271027/175825757-9bd8e231-0c60-4d1d-a048-8fe05afa5fa1.png)
 
-* 🤔 I'm a **postgraduate student** from China who is doing a Master of Information Technology and Master of Information Technology Management(Major in Software Engineering) at [The University of Sydney](https://www.sydney.edu.au/).
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8B+Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+<br/>
+    
+- 🤔 I'm a **postgraduate student** from China who is doing a Master of Information Technology and Master of Information Technology Management(Major in Software Engineering) at [The University of Sydney](https://www.sydney.edu.au/).
 
-* 🎮 I'm a big fan of games, especially in the FPS, MMORPG and Racing genres and hope to join in a team to develop a fantastic game in the future.
+- 🎮 I'm a big fan of games, especially in the FPS, MMORPG and Racing genres and I hope to join a team to develop a fantastic game in the future.
 
-* 🎯 I have an intense curiosity and interest in high technology and game development, willingness to learn and an emphasis on teamwork.
+- 🎯 I have an intense curiosity and interest in high technology and game development, a willingness to learn and an emphasis on teamwork.
+</div>
+
 
 ## 💼 Skills (Keep Learning!)
 
