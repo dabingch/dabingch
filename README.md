@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/61271027/175825757-9bd8e231-0c60-4d1d-a048-8fe05afa5fa1.png)
 
 <div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Welcome+to+My+Profile!+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Welcome+to+My+Profile!+;I+am+a+Game+Developer+;I+am+a+Full+Stack+Developer+;Always+learning+new+things" alt="Typing SVG" /></a>
 <br/>
     
 - 🤔 I'm a **postgraduate student** from China who is doing a Master of Information Technology and Master of Information Technology Management(Major in Software Engineering) at [The University of Sydney](https://www.sydney.edu.au/).
