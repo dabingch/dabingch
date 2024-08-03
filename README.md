@@ -141,7 +141,7 @@
 🍳 PUBG: BATTLEGROUNDS              🕘 1535 hrs 5 mins
 🔫 Counter-Strike 2                 🕘 843 hrs 11 mins
 🎮 Goose Goose Duck                 🕘 57 hrs 30 mins
-🎮 Gunfire Reborn                   🕘 54 hrs 1 mins
+🎮 Gunfire Reborn                   🕘 55 hrs 1 mins
 🎮 Monster Hunter: World            🕘 24 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
