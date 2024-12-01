@@ -139,7 +139,7 @@
 #### <a href="https://gist.github.com/3c6dfd007fb090c79d2d038fb8897721" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1636 hrs 42 mins
-🔫 Counter-Strike 2                 🕘 848 hrs 5 mins
+🔫 Counter-Strike 2                 🕘 848 hrs 35 mins
 🎮 Gunfire Reborn                   🕘 60 hrs 23 mins
 🎮 Goose Goose Duck                 🕘 57 hrs 30 mins
 🎮 Monster Hunter: World            🕘 24 hrs 6 mins
