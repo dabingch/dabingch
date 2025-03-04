@@ -142,7 +142,7 @@
 🔫 Counter-Strike 2                 🕘 851 hrs 38 mins
 🎮 Gunfire Reborn                   🕘 60 hrs 23 mins
 🎮 Goose Goose Duck                 🕘 57 hrs 30 mins
-🎮 Monster Hunter: World            🕘 24 hrs 6 mins
+🎮 It Takes Two Friend's Pass       🕘 25 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
