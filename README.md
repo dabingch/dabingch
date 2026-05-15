@@ -140,7 +140,7 @@
 ```text
 🍳 PUBG: BATTLEGROUNDS              🕘 1726 hrs 52 mins
 🔫 Counter-Strike 2                 🕘 859 hrs 56 mins
-🎮 Gunfire Reborn                   🕘 66 hrs 51 mins
+🎮 Gunfire Reborn                   🕘 68 hrs 28 mins
 🎮 Goose Goose Duck                 🕘 57 hrs 30 mins
 🎮 It Takes Two Friend's Pass       🕘 25 hrs 4 mins
 ```
